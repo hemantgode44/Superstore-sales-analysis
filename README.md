@@ -50,7 +50,7 @@ ORDER BY Total_Sales DESC;
   - **Visuals** → Map, line chart, bar chart, pie chart, and summary table  
 
 📸 **Dashboard Preview:**  
-*(Ensure screenshot is saved as `images/Screenshot.png` for rendering.)*  
+(https://github.com/hemantgode44/Superstore-sales-analysis/blob/main/Screenshot.png)
 
 ---
 
